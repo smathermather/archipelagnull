@@ -6,3 +6,5 @@ A long time ago, Stephanie May, or [@mizmay](https://twitter.com/mizmay) as she 
 Jet-lagged from the lovely FOSS4G Korea 2014 and ostensibly preparing his first (real) presentation on OpenDroneMap for FOSS4G Portland, @smathermather undertook the daunting task of mapping out the archipelagnull. It took 20 minutes. For the record, Stephanie made fun of Stephen's pronunciation of archipelago as well. He hasn't forgotten.
 
 This repository documents in code and in data those discoveries. The code assumes a [PostGIS installation](https://postgis.net).
+
+Map tiles by [Stamen Design](http://stamen.com/), under [CC BY 3.0.](http://creativecommons.org/licenses/by/3.0) Data by [OpenStreetMap](http://openstreetmap.org/), under [ODbL](http://www.openstreetmap.org/copyright).
