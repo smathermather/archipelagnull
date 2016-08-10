@@ -7,4 +7,6 @@ Jet-lagged from the lovely FOSS4G Korea 2014 and ostensibly preparing his first 
 
 This repository documents in code and in data those discoveries. The code assumes a [PostGIS installation](https://postgis.net).
 
+![](archipelago.png)
+
 Map tiles by [Stamen Design](http://stamen.com/), under [CC BY 3.0.](http://creativecommons.org/licenses/by/3.0) Data by [OpenStreetMap](http://openstreetmap.org/), under [ODbL](http://www.openstreetmap.org/copyright).
